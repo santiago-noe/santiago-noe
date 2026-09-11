@@ -1,22 +1,21 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="profile.svg" alt="Noe Yupanqui Profile" width="1000" />
+<!-- HEADER -->x
 
 <h1>Noe Yupanqui</h1>
 
 <h3>
-  Ingeniería de Sistemas · Full-Stack Developer · AI & Automation
+  Ingenierï¿½a de Sistemas ï¿½ Full-Stack Developer ï¿½ AI & Automation
 </h3>
 
 <p>
-  Estudiante de Ingeniería de Sistemas en la <strong>Universidad Nacional de San Cristóbal de Huamanga — UNSCH</strong><br>
-  Ayacucho, Perú ????
+  Estudiante de Ingenierï¿½a de Sistemas en la <strong>Universidad Nacional de San Cristï¿½bal de Huamanga ï¿½ UNSCH</strong><br>
+  Ayacucho, Perï¿½ ????
 </p>
 
 <p>
-  Construyo sistemas confiables, escalables y útiles para resolver problemas reales con software, IA y automatización.<br>
-  Mi camino es la ingeniería de software aplicada al desarrollo full-stack y a la mejora continua de procesos.
+  Construyo sistemas confiables, escalables y ï¿½tiles para resolver problemas reales con software, IA y automatizaciï¿½n.<br>
+  Mi camino es la ingenierï¿½a de software aplicada al desarrollo full-stack y a la mejora continua de procesos.
 </p>
 
 </div>
@@ -86,6 +85,6 @@
 </div>
 
 <p align="center">
-  <em>Reliability isn’t a feature — it’s a prerequisite</em>
+  <em>Reliability isnï¿½t a feature ï¿½ itï¿½s a prerequisite</em>
 </p>
 
