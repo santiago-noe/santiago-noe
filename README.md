@@ -151,52 +151,6 @@ processes into software
 
 <div align="center">
 
-## Featured Projects
-
-</div>
-
-### 🍽️ RestaurantOS
-
-**Sistema de gestión integral para restaurantes**
-
-Sistema orientado a la gestión de operaciones de un restaurante, desarrollado con arquitectura backend, base de datos y despliegue en la nube.
-
-`Go` `PostgreSQL` `Docker` `React`
-
----
-
-### 🤖 AI Medical Screening
-
-**Chatbot para el tamizaje no invasivo de anemia por conjuntiva ocular**
-
-Proyecto de investigación que integra un chatbot con inteligencia artificial, procesamiento de imágenes, **Vision Transformer (ViT)** y un modelo de lenguaje para apoyar el tamizaje no invasivo.
-
-`Python` `FastAPI` `React` `ViT` `Transformers` `RAG`
-
----
-
-### 📊 Olist BI
-
-**Business Intelligence & Data Warehouse**
-
-Proyecto de Business Intelligence basado en el Brazilian E-Commerce Public Dataset de Olist, utilizando modelado dimensional, Data Warehouse, KPIs y dashboards.
-
-`SQL` `Power BI` `DAX` `Kimball`
-
----
-
-### 🖥️ xv6
-
-**Operating Systems & Low-Level Programming**
-
-Proyecto académico basado en xv6 para explorar sistemas operativos, system calls, procesos y algoritmos de planificación de CPU.
-
-`C` `xv6` `Linux` `QEMU`
-
----
-
-<div align="center">
-
 ## Currently Learning
 
 <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-8A2BE2?style=for-the-badge">
