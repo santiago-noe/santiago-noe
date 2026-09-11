@@ -35,8 +35,6 @@ automatización y gestión de datos.
 
 <div align="center">
 
-### Programming Languages
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -50,7 +48,6 @@ automatización y gestión de datos.
 
 <div align="center">
 
-### Full-Stack Development
 
 <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -63,8 +60,6 @@ automatización y gestión de datos.
 
 <div align="center">
 
-### Artificial Intelligence & Data
-
 <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
 <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -76,7 +71,6 @@ automatización y gestión de datos.
 
 <div align="center">
 
-### Databases
 
 <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -88,7 +82,6 @@ automatización y gestión de datos.
 
 <div align="center">
 
-### DevOps & Tools
 
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
