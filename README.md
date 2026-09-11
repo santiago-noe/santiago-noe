@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- HEADER -->x
-
 <h1>Noe Yupanqui</h1>
 
 <h3>
