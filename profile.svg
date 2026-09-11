@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .dark { fill: #2b2f3b; }
+      .tile { fill: #141a1f; }
+      .green { fill: #23d18b; }
+      .green2 { fill: #0f9f78; }
+      .gray { fill: #3b3f4a; }
+      .purple { fill: #b361ff; }
+      .text { fill: #e6edf3; font: 20px Inter, Arial, sans-serif; }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="180" rx="0" />
+
+  <!-- top visual grid -->
+  <g opacity="0.96">
+    <!-- row 1 -->
+    <rect class="tile" x="10" y="20" width="18" height="18" rx="2" />
+    <rect class="tile" x="35" y="20" width="18" height="18" rx="2" />
+    <rect class="tile" x="60" y="20" width="18" height="18" rx="2" />
+    <rect class="tile" x="85" y="20" width="18" height="18" rx="2" />
+    <rect class="green" x="110" y="20" width="18" height="18" rx="2" />
+    <rect class="green" x="135" y="20" width="18" height="18" rx="2" />
+    <rect class="tile" x="165" y="20" width="18" height="18" rx="2" />
+    <rect class="tile" x="190" y="20" width="18" height="18" rx="2" />
+    <rect class="tile" x="215" y="20" width="18" height="18" rx="2" />
+
+    <rect class="green" x="250" y="20" width="18" height="18" rx="2" />
+    <rect class="green" x="275" y="20" width="18" height="18" rx="2" />
+    <rect class="green" x="300" y="20" width="18" height="18" rx="2" />
+    <rect class="tile" x="325" y="20" width="18" height="18" rx="2" />
+    <rect class="tile" x="350" y="20" width="18" height="18" rx="2" />
+    <rect class="tile" x="375" y="20" width="18" height="18" rx="2" />
+    <rect class="tile" x="400" y="20" width="18" height="18" rx="2" />
+
+    <rect class="tile" x="435" y="20" width="18" height="18" rx="2" />
+    <rect class="green" x="460" y="20" width="18" height="18" rx="2" />
+    <rect class="tile" x="485" y="20" width="18" height="18" rx="2" />
+    <rect class="green" x="510" y="20" width="18" height="18" rx="2" />
+    <rect class="green" x="535" y="20" width="18" height="18" rx="2" />
+
+    <!-- row 2 -->
+    <rect class="green" x="20" y="50" width="18" height="18" rx="2" />
+    <rect class="tile" x="45" y="50" width="18" height="18" rx="2" />
+    <rect class="gray" x="70" y="50" width="18" height="18" rx="2" />
+    <rect class="tile" x="95" y="50" width="18" height="18" rx="2" />
+    <rect class="green" x="120" y="50" width="18" height="18" rx="2" />
+    <rect class="green" x="145" y="50" width="18" height="18" rx="2" />
+
+    <rect class="tile" x="260" y="50" width="18" height="18" rx="2" />
+    <rect class="gray" x="285" y="50" width="18" height="18" rx="2" />
+    <rect class="green" x="310" y="50" width="18" height="18" rx="2" />
+    <rect class="green" x="335" y="50" width="18" height="18" rx="2" />
+
+    <!-- row 3 -->
+    <rect class="green" x="80" y="80" width="18" height="18" rx="2" />
+    <rect class="green" x="105" y="80" width="18" height="18" rx="2" />
+    <rect class="tile" x="130" y="80" width="18" height="18" rx="2" />
+    <rect class="tile" x="155" y="80" width="18" height="18" rx="2" />
+    <rect class="green" x="180" y="80" width="18" height="18" rx="2" />
+
+    <rect class="tile" x="260" y="80" width="18" height="18" rx="2" />
+    <rect class="tile" x="285" y="80" width="18" height="18" rx="2" />
+    <rect class="green" x="310" y="80" width="18" height="18" rx="2" />
+    <rect class="green" x="335" y="80" width="18" height="18" rx="2" />
+    <rect class="tile" x="360" y="80" width="18" height="18" rx="2" />
+
+    <!-- bar line -->
+    <rect class="gray" x="20" y="130" width="420" height="8" rx="4" />
+  </g>
+
+  <!-- phrase -->
+  <text x="600" y="160" text-anchor="middle" class="text">“Reliability isn’t a feature — it’s a prerequisite”</text>
+
+  <!-- right small purple point -->
+  <circle class="purple" cx="1060" cy="60" r="8" />
+</svg>
