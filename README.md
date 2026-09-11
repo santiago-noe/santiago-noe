@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="profile.svg" alt="Profile visualization" width="1000" />
+
 # Noe Santiago
 
 ### Ingeniería de Sistemas · Full-Stack Developer · AI & Automation
@@ -20,6 +22,14 @@ Ayacucho, Perú 🇵🇪
 Me interesa construir sistemas útiles, escalables y orientados a resolver
 problemas reales mediante desarrollo de software, inteligencia artificial,
 automatización y gestión de datos.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="contributions.svg" alt="101 contributions in the last year" width="900" />
 
 </div>
 
