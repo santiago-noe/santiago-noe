@@ -29,7 +29,9 @@ automatización y gestión de datos.
 
 <div align="center">
 
-<img src="contributions.svg" alt="101 contributions in the last year" width="900" />
+<a href="https://github.com/santiago-noe?tab=overview&from=2026-09-01&to=2026-09-11">
+  <img src="contributions.svg" alt="101 contributions in the last year" width="900" />
+</a>
 
 </div>
 
