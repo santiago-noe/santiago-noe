@@ -1,6 +1,6 @@
 <div align="center">
 
-# Noe Yupanqui
+# Noe Santiago
 
 ### Ingeniería de Sistemas · Full-Stack Developer · AI & Automation
 
