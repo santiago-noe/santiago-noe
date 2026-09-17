@@ -3,13 +3,13 @@
 <h1>Noe Santiago</h1>
 
 <h3>
-  Ingenieria de Sistemas | Full-Stack Developer | AI & Automation
+  Systems Engineering | Full-Stack Developer | AI & Automation
 </h3>
 
 
 <p>
-  Construyo sistemas confiables, escalables y utiles para resolver problemas reales con software, IA y automatizacion.<br>
-  Mi camino es la ingenieria de software aplicada al desarrollo full-stack y a la mejora continua de procesos.
+  I build reliable, scalable, and useful systems to solve real-world problems through software, AI, and automation.<br>
+  My path is software engineering applied to full-stack development and continuous process improvement.
 </p>
 
 </div>
@@ -61,6 +61,6 @@
 </div>
 
 <p align="center">
-  <sub><em>"Construir software es convertir ideas en soluciones confiables"</em></sub>
+  <sub><em>"Building software means turning ideas into reliable solutions."</em></sub>
 </p>
 
